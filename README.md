@@ -6,7 +6,7 @@ Course by Gini von Courter - Completed Mar 2023
 
 Covered skills: Microsoft Power BI
 
-Learning onjectives:
+Learning objectives:
 
   Apply the required hardware to successfully run Power BI.
   Distinguish between different data types in Power BI.
